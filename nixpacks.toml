@@ -1,0 +1,11 @@
+[phases.setup]
+nixPksg = ["bun"]
+
+[phases.install]
+cmds = ["bun install"]
+
+[pahses.build]
+cmds = []
+
+[start]
+cmd = "bun run start"
