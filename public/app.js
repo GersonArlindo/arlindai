@@ -33,7 +33,7 @@ function newConversation() {
     document.getElementById('messagesContainer').innerHTML = `
         <div class="welcome-message">
             <div class="welcome-icon">✨</div>
-            <h3>Bienvenido a ArlindAI</h3>
+            <h3>Bienvenido a BrightFutureAI</h3>
             <p>Tu chat inteligente con múltiples modelos de IA. 
                Cada mensaje usa un modelo diferente automáticamente.</p>
             <div class="features">
@@ -87,7 +87,7 @@ function loadMessages() {
         container.innerHTML = `
             <div class="welcome-message">
                 <div class="welcome-icon">✨</div>
-                <h3>Bienvenido a ArlindAI</h3>
+                <h3>Bienvenido a BrightFutureAI</h3>
                 <p>Tu chat inteligente con múltiples modelos de IA.</p>
                 <div class="features">
                     <span>🚀 Groq</span>
